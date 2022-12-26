@@ -1,4 +1,4 @@
-# jest-component
+# react-component-testing
 
 ## a simple component testing with jest
 
